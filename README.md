@@ -17,11 +17,4 @@ How it works
 
 Essentially takes in a trigger word that starts the poem off. Reads through an inspiring set of 1 poem and a bunch of drake songs and creates a bigram model of the words used from the inspiring set and words that frequently come after the words. a word is then chosen at random using the Random library and uses that word for the next word in the poem. The scoring is based on using a similarity method through spaCy with twos strings.
 
-
-
-link to bugtracker (if any)
-known issues (if any)
-instructions to build (if any)
-instructions to run (if applicable)
-instructions to run test suite(s) (if any)
-
+Have inlcuded sources at the top of the page of each class I used information I learned.
