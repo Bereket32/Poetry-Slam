@@ -6,6 +6,7 @@ Bugs/issues:
 - issue with similarity method as it repeated sneds out strnig warning but can be disgarded. the scoring is consisent each run but was not able to figure out why
 - Does not recite the audio file of poem but creates an audio file that contains gTTS saying the poem.
 - also does not give option to save poem
+- Now getting a type error with the audio file. Says I'm giving 2 arguements when there is only one input in the method.
 
 Libraries used/ installations
 - SpaCy
